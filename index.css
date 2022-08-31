@@ -1,0 +1,80 @@
+#window{
+  height: 96vh;
+  border-style: solid;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  padding-top: 20px;
+  margin: 20px;
+}
+
+#nav{
+  margin: 0 auto;
+  height: 50px;
+  width: 95vw;
+  text-align: center;
+}
+
+.navButton{
+  height: 50px;
+  width: 100px;
+  display: inline-block;
+}
+
+.button{
+  height: 100%;
+  width: 100%;
+  border-style: none;
+  background-color: white;
+  border-radius: 5px;
+  font-family: serif;
+  font-size: 15px;
+}
+
+.button:hover{
+  background-color: #e7e7e7;
+}
+
+#home{
+  vertical-align: top;
+}
+
+#games{
+  vertical-align: top;
+}
+
+.pageTitle{
+  text-align: center;
+}
+
+.page{
+  margin: 0 auto;
+  width:95vw;
+  height:80vw;
+}
+
+
+#meme{
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.linksboi{
+  font-family: cursive;
+  text-decoration: none;
+  color: black;
+  position: fixed;
+  bottom: 20px;
+  left: 15px;
+}
+
+
+
+
+
